@@ -1,3 +1,5 @@
+![freepik-ai-artificial-intelligence-leaderboard-banner-59451-20250212025117dJbf](https://github.com/user-attachments/assets/0c8d17da-6237-40a2-a460-e55ab0008278)
+
 # 💫 About Me:
 💫 About Me:<br>
 🖥️ Working on: AI & Python projects<br>
