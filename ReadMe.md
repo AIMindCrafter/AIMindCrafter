@@ -126,30 +126,6 @@
   </div>
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIMindCrafter&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIMindCrafter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIMindCrafter&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIMindCrafter&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" width="800" />
-</div>
-
-### 💡 Innovation Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
