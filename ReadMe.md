@@ -1,4 +1,4 @@
-# 🚀 Muhammad Zeeshan Malik | AI Developer
+# 🚀 Muhammad Zeeshan Malik | AI Engineer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Mind%20Crafter&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligent%20Solutions&descAlignY=51&descAlign=62" width="100%" />
