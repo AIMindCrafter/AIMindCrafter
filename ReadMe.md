@@ -18,7 +18,7 @@
   - 🖥️ Working on: **AI, Computer Vision & Generative Models**
   - 🤖 Specializing in: **ML Engineering, Computer Vision & Embedded AI Systems**
   - 🔍 Research interests: **Generative AI, Multimodal Learning & Edge Computing**
-  - 📚 Currently exploring: **Large Language Models & Vision Transformers**
+  - 📚 Currently exploring: **Large Language Models, Vision Transformers, Agentic AI, LangChain workflows, MLOps & LLMOps pipelines, FastAPI services, and scalable NLP systems**
   - 🛠️ Building: **Arduino-based AI prototypes & Computer Vision applications**
   - 🌟 Open to collaborate on: **Innovative AI research & development projects**
 </div>
@@ -125,7 +125,92 @@
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
   </div>
 </details>
+<details open>
+  <summary><b>🧠 Agentic AI & AI Workflows</b></summary>
+  <br>
+  <div align="center">
+    
+  ![LangChain](https://img.shields.io/badge/LangChain-%23FF6F00.svg?style=for-the-badge&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-00BFFF?style=for-the-badge)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A36C?style=for-the-badge&logo=LlamaIndex)
+  ![AutoGen](https://img.shields.io/badge/AutoGen-1E90FF?style=for-the-badge)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=CrewAI)
+  ![AgentQL](https://img.shields.io/badge/AgentQL-00CED1?style=for-the-badge)
+  </div>
+</details>
 
+<details open>
+  <summary><b>⚙️ MLOps & LLMOps</b></summary>
+  <br>
+  <div align="center">
+    
+  ![MLflow](https://img.shields.io/badge/MLflow-%2300A378.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+  ![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFCC00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+  ![DVC](https://img.shields.io/badge/DVC-%2300A39B.svg?style=for-the-badge&logo=data-version-control&logoColor=white)
+  ![LangSmith](https://img.shields.io/badge/LangSmith-1E90FF?style=for-the-badge&logo=langchain&logoColor=white)
+  ![PromptLayer](https://img.shields.io/badge/PromptLayer-48AAF5?style=for-the-badge)
+  ![LLMonitor](https://img.shields.io/badge/LLMonitor-20C997?style=for-the-badge)
+  </div>
+</details>
+
+
+<details open>
+  <summary><b>🧠 Agentic AI & AI Workflows</b></summary>
+  <br>
+  <div align="center">
+    
+  ![LangChain](https://img.shields.io/badge/LangChain-%23FF6F00.svg?style=for-the-badge&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-00BFFF?style=for-the-badge)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A36C?style=for-the-badge&logo=LlamaIndex)
+  ![AutoGen](https://img.shields.io/badge/AutoGen-1E90FF?style=for-the-badge)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=CrewAI)
+  ![AgentQL](https://img.shields.io/badge/AgentQL-00CED1?style=for-the-badge)
+  </div>
+</details>
+
+
+<details open>
+  <summary><b>🗃️ Databases for AI</b></summary>
+  <br>
+  <div align="center">
+    
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23d82c20.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=Pinecone&logoColor=white)
+  ![Weaviate](https://img.shields.io/badge/Weaviate-000000?style=for-the-badge&logo=weaviate&logoColor=white)
+  ![FAISS](https://img.shields.io/badge/FAISS-F5A623?style=for-the-badge&logo=faiss&logoColor=black)
+  </div>
+</details>
+
+<details open>
+  <summary><b>📡 FastAPI & REST APIs</b></summary>
+  <br>
+  <div align="center">
+    
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+  ![ReDoc](https://img.shields.io/badge/ReDoc-2B8ACC?style=for-the-badge&logo=redoc&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  </div>
+</details>
+
+<details open>
+  <summary><b>🧠 Natural Language Processing (NLP)</b></summary>
+  <br>
+  <div align="center">
+    
+  ![spaCy](https://img.shields.io/badge/spaCy-09A38A?style=for-the-badge&logo=spaCy&logoColor=white)
+  ![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=for-the-badge&logo=nltk&logoColor=white)
+  ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![Gensim](https://img.shields.io/badge/Gensim-0084B4?style=for-the-badge&logo=gensim&logoColor=white)
+  ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0077B6?style=for-the-badge&logo=sentence-transformers&logoColor=white)
+  ![BERTopic](https://img.shields.io/badge/BERTopic-00A378?style=for-the-badge)
+  </div>
+</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
