@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
+
+
 # Muhammad Zeeshan Malik  
 **AI & Machine Learning Engineer | Computer Vision & Generative AI Specialist**
 
@@ -89,34 +95,27 @@ Open to **collaborations**, **consulting**, and **full-time opportunities** wher
 
 ## 📚 Education
 
-**[Your Degree]**  
-*Institution Name*  
-Year of Graduation: YYYY
+**[Computer Science]**  
+*Islamia University of Bahawalpur(IUB) *  
+Year of Graduation: 2026
 
 ---
 
 ## 🏆 Certifications
 
-- [AI & Machine Learning Certification]
-- [Computer Vision Specialization]
-- [MLOps Engineering Certificate]
+- [https://www.coursera.org/account/accomplishments/verify/ASVRDMP5VZ4R]
+- [https://www.coursera.org/account/accomplishments/verify/OBX2T75WH7L5]
+- [https://www.coursera.org/account/accomplishments/verify/OBX2T75WH7L5]
 - [Cloud Certification: AWS/Azure/GCP]
 
 ---
 
 ## 📬 Contact Me
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-📍 Location: [City, Country]  
+📧 Email: [your.email@example.com](mailto:f22bdocs1e02027@iub.edu.pk)  
+📍 Location: [Pakistan]  
 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com )
 
----
-
-## 📂 Projects (Optional)
-
-You can add a section here highlighting your key AI projects, GitHub links, or deployed models.
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
