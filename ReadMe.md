@@ -2,120 +2,69 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
-
-
-# Muhammad Zeeshan Malik  
-**AI & Machine Learning Engineer | Computer Vision & Generative AI Specialist**
+<h1 align="center">Muhammad Zeeshan Malik</h1>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
 ---
 
-## 🧠 About Me
+## <div align="center">🧠 About Me</div>
 
-I am an AI & Machine Learning Engineer with a strong foundation in **artificial intelligence**, **deep learning**, **computer vision**, and **generative AI models**. My expertise lies in designing and deploying **end-to-end AI systems**, from data preprocessing and model development to deployment using **MLOps** and **LLMOps** pipelines.
+I am an AI & Machine Learning Engineer with a strong foundation in machine learning, deep learning, and computer vision. My expertise lies in developing and deploying end-to-end AI systems, leveraging MLOps practices for efficient model management and deployment. I am passionate about applying AI to solve practical problems and am currently pursuing my Bachelor's degree in Computer Science.
 
-I specialize in:
-- Machine Learning & Deep Learning
-- Computer Vision & Object Detection
-- Generative AI (Diffusion Models, GANs, LLMs)
-- Agentic AI & LangChain Workflows
-- FastAPI & RESTful API Development
-- MLOps & LLMOps (MLflow, Weights & Biases, LangSmith)
-- Embedded AI & Arduino-based Prototyping
-
-Open to **collaborations**, **consulting**, and **full-time opportunities** where I can contribute to impactful AI-driven solutions.
+Open to collaborations and opportunities where I can contribute my skills in AI and machine learning.
 
 ---
 
-## 🔗 Professional Network
+## <div align="center">🔗 Professional Network</div>
 
-| Platform     | Profile                                                                 |
-|--------------|-------------------------------------------------------------------------|
-| **LinkedIn** | [linkedin.com/in/zeeshanmalik](https://linkedin.com/in/zeeshanmalik )     |
-| **GitHub**   | [github.com/AIMindCrafter](https://github.com/AIMindCrafter )             |
-| **Kaggle**   | [kaggle.com/zeeshanmalik](https://kaggle.com/zeeshanmalik )               |
-| **Stack Overflow** | [stackoverflow.com/users/22225216/zeeshan-malik](https://stackoverflow.com/users/22225216/zeeshan-malik ) |
-| **ResearchGate** | [researchgate.net/profile/Muhammad-Zeeshan-Malik](https://researchgate.net/profile/Muhammad-Zeeshan-Malik ) |
-
----
-
-## 💼 Technical Expertise
-
-### 🧠 AI & Machine Learning
-- TensorFlow, PyTorch, Keras
-- Scikit-learn, XGBoost, LightGBM
-- ONNX, Hugging Face Transformers
-
-### 👁️ Computer Vision
-- OpenCV, MediaPipe, YOLO
-- PyTorch Vision, Detectron2
-
-### 🎨 Generative AI & LLMs
-- Diffusion Models, GANs
-- Transformers, LLMs (LLaMA, GPT, etc.)
-- LangChain, LlamaIndex, AutoGen, CrewAI
-
-### 🧰 MLOps & LLMOps
-- MLflow, DVC, Weights & Biases
-- LangSmith, PromptLayer, LLMonitor
-
-### 📡 FastAPI & APIs
-- FastAPI, Flask, REST APIs
-- Swagger, ReDoc, GraphQL
-
-### 🗃️ Databases for AI
-- PostgreSQL, MongoDB, Redis
-- Pinecone, Weaviate, FAISS
-
-### 📊 Data Science & Analytics
-- NumPy, Pandas, Matplotlib, Plotly
-- SciPy, Seaborn
-
-### ☁️ DevOps & Cloud
-- Docker, Kubernetes
-- AWS, Azure, GCP
-
-### 🧑‍💻 Programming Languages
-- Python, C++, JavaScript
-- R, SQL
+| Platform         | Profile                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| **LinkedIn**     | [linkedin.com/in/zeeshanmalik](https://linkedin.com/in/zeeshanmalik)     |
+| **GitHub**       | [github.com/AIMindCrafter](https://github.com/AIMindCrafter)             |
+| **Kaggle**       | [kaggle.com/zeeshanmalik](https://kaggle.com/zeeshanmalik)               |
+| **Stack Overflow** | [stackoverflow.com/users/22225216/zeeshan-malik](https://stackoverflow.com/users/22225216/zeeshan-malik) |
+| **ResearchGate** | [researchgate.net/profile/Muhammad-Zeeshan-Malik](https://researchgate.net/profile/Muhammad-Zeeshan-Malik) |
 
 ---
 
-## 🛠 Tools & Frameworks
+## <div align="center">💼 Technical Skills</div>
 
-| Category         | Tools/Frameworks                                                   |
-|------------------|--------------------------------------------------------------------|
-| **Deep Learning** | TensorFlow, PyTorch, Keras, ONNX, Hugging Face Transformers      |
-| **Vision**        | OpenCV, MediaPipe, YOLO                                            |
-| **Deployment**    | FastAPI, Flask, Docker, MLflow, Streamlit                         |
-| **MLOps**         | DVC, Weights & Biases, LangSmith, MLflow                           |
-| **Cloud**         | AWS, Azure, GCP                                                    |
-| **Databases**     | PostgreSQL, MongoDB, Redis, FAISS, Pinecone                        |
-
----
-
-## 📚 Education
-
-**[Computer Science]**  
-*Islamia University of Bahawalpur(IUB) *  
-Year of Graduation: 2026
+| Category               | Skills & Technologies                                                                 |
+|------------------------|----------------------------------------------------------------------------------------|
+| **Languages**          | Python, SQL, C++, JavaScript, R                                                        |
+| **ML/DL Frameworks**   | Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, ONNX, Hugging Face        |
+| **Computer Vision**    | OpenCV, MediaPipe, YOLO, Detectron2, PyTorch Vision                                    |
+| **Generative AI**      | Diffusion Models, GANs, Transformers, LangChain, LlamaIndex, AutoGen, CrewAI           |
+| **Data Handling**      | NumPy, Pandas, Matplotlib, Seaborn, Plotly, SciPy                                      |
+| **APIs & Deployment**  | FastAPI, Flask, REST APIs, Docker, Streamlit                                           |
+| **MLOps/LLMOps**       | MLflow, DVC, Weights & Biases, LangSmith                                               |
+| **Databases**          | PostgreSQL, MongoDB, Redis, FAISS, Pinecone, Weaviate                                  |
+| **Cloud & DevOps**     | AWS, Azure, GCP, Kubernetes                                                            |
 
 ---
 
-## 🏆 Certifications
+## <div align="center">📚 Education</div>
 
-- [https://www.coursera.org/account/accomplishments/verify/ASVRDMP5VZ4R]
-- [https://www.coursera.org/account/accomplishments/verify/OBX2T75WH7L5]
-- [https://www.coursera.org/account/accomplishments/verify/OBX2T75WH7L5]
-- [https://www.coursera.org/account/accomplishments/verify/RM3OMVG18E5L]
+**BSc in Computer Science**  
+*Islamia University of Bahawalpur (IUB)*  
+Expected Graduation: 2026
 
 ---
 
-## 📬 Contact Me
+## <div align="center">🏆 Certifications</div>
 
-📧 Email: [your.email@example.com](mailto:f22bdocs1e02027@iub.edu.pk)  
-📍 Location: [Pakistan]  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com )
+| Certification Title                             | Issued By                        | Date       | Link                                                                 |
+|-------------------------------------------------|----------------------------------|------------|----------------------------------------------------------------------|
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI / Stanford University | July 2025  | [View Certificate](https://www.coursera.org/account/accomplishments/verify/ASVRDMP5VZ4R) |
+| Hands-on Introduction to Linux Commands and Shell Scripting | IBM                             | July 2025  | [View Certificate](https://www.coursera.org/account/accomplishments/verify/OBX2T75WH7L5) |
+| Neural Networks and Deep Learning               | DeepLearning.AI                  | July 2025  | [View Certificate](https://www.coursera.org/account/accomplishments/verify/RM3OMVG18E5L) |
 
+---
+
+## <div align="center">📬 Contact</div>
+
+📧 **Email:** [f22bdocs1e02027@iub.edu.pk](mailto:f22bdocs1e02027@iub.edu.pk)  
+📍 **Location:** Pakistan
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
