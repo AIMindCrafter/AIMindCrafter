@@ -25,19 +25,6 @@ Open to collaborations, internships, and full-time roles in GenAI, Agentic AI, a
 
 ---
 
-## <div align="center">🔗 Professional Network</div>
-
-| Platform          | Profile                                                                 |
-|-------------------|--------------------------------------------------------------------------|
-| LinkedIn          | https://www.linkedin.com/in/muhammad-zeeshan-6b66a7350/                 |
-| GitHub            | https://github.com/AIMindCrafter                                        |
-| Kaggle            | https://kaggle.com/zeeshanmalik                                         |
-| Stack Overflow    | https://stackoverflow.com/users/22225216/zeeshan-malik                  |
-| ResearchGate      | https://researchgate.net/profile/Muhammad-Zeeshan-Malik                 |
-| Porfolio          | https://aimindcrafter.github.io/                                        |
-| Upwork            | https://www.upwork.com/freelancers/~01ea1cf7ff4a012351                  |
----
-
 ## <div align="center">🛠️ Technical Stack</div>
 
 - GenAI & LLMs: LangChain, LangGraph, LlamaIndex, Transformers, Llama 3, Mistral, RAG
