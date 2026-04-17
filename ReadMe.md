@@ -29,12 +29,13 @@ Open to collaborations, internships, and full-time roles in GenAI, Agentic AI, a
 
 | Platform          | Profile                                                                 |
 |-------------------|--------------------------------------------------------------------------|
-| LinkedIn          | https://linkedin.com/in/zeeshanmalik                                    |
+| LinkedIn          | https://www.linkedin.com/in/muhammad-zeeshan-6b66a7350/                 |
 | GitHub            | https://github.com/AIMindCrafter                                        |
 | Kaggle            | https://kaggle.com/zeeshanmalik                                         |
 | Stack Overflow    | https://stackoverflow.com/users/22225216/zeeshan-malik                  |
 | ResearchGate      | https://researchgate.net/profile/Muhammad-Zeeshan-Malik                 |
-
+| Porfolio          | https://aimindcrafter.github.io/                                        |
+| Upwork            | https://www.upwork.com/freelancers/~01ea1cf7ff4a012351                  |
 ---
 
 ## <div align="center">🛠️ Technical Stack</div>
@@ -69,8 +70,8 @@ Expected Graduation: 2026
 
 ## <div align="center">📬 Get in Touch</div>
 
-- Email: f22bdocs1e02027@iub.edu.pk  
-- Location: Pakistan
+- Email: f22bdocs1e02027@iub.edu.pk/321muhammadkamran@gmail.com  
+- Location:Bahawalpur,Punjab,Pakistan
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
