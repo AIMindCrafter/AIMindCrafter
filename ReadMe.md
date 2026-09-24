@@ -40,8 +40,7 @@ Open to collaborations, internships, and full-time roles in GenAI, Agentic AI, a
 ## <div align="center">🎓 Education</div>
 
 **BSc in Computer Science**  
-Islamia University of Bahawalpur (IUB)  
-Expected Graduation: 2026
+Islamia University of Bahawalpur (IUB)
 
 ---
 
@@ -57,8 +56,7 @@ Expected Graduation: 2026
 
 ## <div align="center">📬 Get in Touch</div>
 
-- Email: f22bdocs1e02027@iub.edu.pk/321muhammadkamran@gmail.com  
-- Location:Bahawalpur,Punjab,Pakistan
+- Email: muhammadzeshan.covers@gmail.com  
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
